@@ -1,0 +1,3 @@
+# Washiton-University-Machine_Learning_Foundations
+ipynotebook files
+Washington University 在Coursera上开设的课程，此为专项课程第一部分的Ipynb文件
